@@ -56,6 +56,5 @@ Los scripts controlan diferentes funcionalidades de los componentes. Estos son l
 - **CounterManager:** Esta clase estática contabiliza los puntos y monedas acumuladas. Todos los elementos del juego tienen acceso a sus métodos y así añadir puntos o monedas en el contador cuando se colisiona con ellos (matar un Toad, romper un bloque, revelar el item oculto en las cajas, etc...).
 
 ## Preview
-[Ver archivo en mp4](https://gitlab.com/Somo86/albertsomoza-pec2/-/blob/master/un_juego_de_plataformas.mp4)
-
+[![Demo](https://www.denofgeek.com/wp-content/uploads/2022/04/Mario-Mushrooms-story.v1-1.jpg?resize=768%2C432)](https://youtu.be/sM08MRU5JBc)
 
